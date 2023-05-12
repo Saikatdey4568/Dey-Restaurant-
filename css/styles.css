@@ -1,0 +1,134 @@
+
+
+
+
+h1{
+
+  color:#D4D925;
+  text-align: center;
+  text-decoration: underline overline;
+  text-decoration-style: dotted;
+  text-decoration-color: gold;
+  text-decoration-thickness:10px;
+  background-image: url(https://i.stack.imgur.com/yDr7J.jpg);
+  font-style: oblique;
+  font-size: 50px;
+  font-stretch: expanded;
+  font-family:gotham;
+
+}
+
+
+hr{
+  border-color:#8D72E1;
+  border-style: dashed none none;
+  width: 10%;
+  border-spacing: 100px;
+  border-radius: 100px;
+  border-size:100px;
+  border-width: 100%;
+}
+
+h3{
+  color: gold;
+  font-family: sans-serif;
+  font-stretch: ultra-expanded;
+  text-decoration: overline underline left right;
+  text-decoration-color: red;
+  text-decoration-style: wavy;
+}
+
+p{
+  font-family: cursive;
+
+}
+
+
+img:hover {
+  background-color: gold;
+  border-radius: 50%;
+}
+
+img{
+  border-radius: 50%;
+}
+
+input{
+  background-color: red;
+}
+
+input :hover{
+  background-color: gold;
+}
+.key :hover{
+  background-color: gold;
+
+}
+
+.key{
+  padding: 10px;
+  text-decoration: none;
+  font-family: serif;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow:  0 9px #FECD70;
+}
+
+h5{
+  font-size: 15px;
+  text-align: center;
+  text-transform: full-width;
+}
+.home{
+  text-decoration: underline overline;
+  text-decoration-style: double;
+  text-decoration-color: black;
+}
+
+
+.link:hover{
+  background-color: gold;
+
+}
+.logo{
+  scroll-behavior: smooth;
+  box-shadow: 9px 9px #6FEDD6;
+  image-orientation: left;
+}
+text-align: center;
+color: #000;
+font-family: gotham;
+outline: none;
+
+
+.final{
+  padding-top: 120%;
+  box-sizing: 40px ;
+  padding-bottom: 100%;
+}
+
+
+.image{
+  box-shadow:  0 9px #FECD70;
+
+}
+
+.Menu{
+  color:#D4D925;
+  text-align: center;
+  text-decoration: underline overline;
+  text-decoration-style: dotted;
+  text-decoration-color: gold;
+  text-decoration-thickness:10px;
+  background-image: url(https://i.stack.imgur.com/yDr7J.jpg);
+  font-style: oblique;
+  font-size: 50px;
+  font-stretch: expanded;
+  font-family:gotham;
+
+}
+
+
+.contact{
+  font-style: Roboto Slab;
+}
